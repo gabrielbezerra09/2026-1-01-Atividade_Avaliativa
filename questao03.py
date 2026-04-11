@@ -1,1 +1,1 @@
-print("*** Cardápio ***\n1. Pizza\n2. Hambúrguer\n3. Suco\n*** Bom apetite! ***")
+print("*** Cardápio ***\n1. Pizza\n2. Hambúrguer\n3. Suco\n*** Bom apetite! *** ")

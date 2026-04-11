@@ -1,1 +1,1 @@
-print("Meu nome é Fulano. \nTenho 18 anos. \nEstou no curso de Informática para Internet.")
+print("Meu nome é Fulano. \nTenho 18 anos. \nEstou no curso de Informática para Internet. ")
